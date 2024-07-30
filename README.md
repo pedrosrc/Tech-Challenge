@@ -1,4 +1,4 @@
-# Tech Challenge
+# 🧩 Desafio Técnico da Real: LeetCode Challenge 
 ## Remove Duplicates from Sorted Array II
 <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/">Link Challenge</a>
 ## Search in Rotated Sorted Array II
